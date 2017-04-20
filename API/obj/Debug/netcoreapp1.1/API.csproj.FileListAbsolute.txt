@@ -1,0 +1,8 @@
+C:\Users\boyai\OneDrive\SourceAsp\WebCore\API\bin\Debug\netcoreapp1.1\API.deps.json
+C:\Users\boyai\OneDrive\SourceAsp\WebCore\API\bin\Debug\netcoreapp1.1\API.runtimeconfig.json
+C:\Users\boyai\OneDrive\SourceAsp\WebCore\API\bin\Debug\netcoreapp1.1\API.runtimeconfig.dev.json
+C:\Users\boyai\OneDrive\SourceAsp\WebCore\API\obj\Debug\netcoreapp1.1\API.AssemblyInfo.cs
+C:\Users\boyai\OneDrive\SourceAsp\WebCore\API\bin\Debug\netcoreapp1.1\API.dll
+C:\Users\boyai\OneDrive\SourceAsp\WebCore\API\bin\Debug\netcoreapp1.1\API.pdb
+C:\Users\boyai\OneDrive\SourceAsp\WebCore\API\obj\Debug\netcoreapp1.1\API.dll
+C:\Users\boyai\OneDrive\SourceAsp\WebCore\API\obj\Debug\netcoreapp1.1\API.pdb
